@@ -74,6 +74,7 @@ Variational-Autoencoder-for-Respiratory-Sound-Analysis/
 │
 ├── ICBHI_final_database/
 │   └── Respiratory audio recordings and annotation files
+        Download from- https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge
 │
 ├── Section_01_Group_03_ID_22241108_22201441_.ipynb
 │   └── Complete preprocessing, VAE training and analysis notebook
@@ -133,5 +134,5 @@ Use patient-independent train and test splits.
 
 Authors
 Tanjum Ibnul Mahmud
-
+Shahriar Khan Shirso
 
